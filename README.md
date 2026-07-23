@@ -1,62 +1,63 @@
-# Hasan Jakmara - Software Developer Portfolio 🚀
+# Hasan Jakmara — Full-Stack Software Developer 🚀
 
 Welcome to my personal portfolio website.
 
-This portfolio presents my journey as a Software Developer, showcasing my technical skills, professional projects, education background, and the technologies I use to build modern applications.
+This repository contains my developer portfolio, where I showcase my technical skills, featured projects, education background, and the technologies I use to build modern, scalable applications.
 
-🌐 Live Demo: https://hasan123-cs.github.io/
+🌐 **Live Demo:** https://hasan123-cs.github.io/
 
 ---
 
 ## 👨‍💻 About Me
 
-I am Hasan Jakmara, a Computer Science graduate and Full-Stack Developer based in Lebanon.
+I am Hasan Jakmara, a Computer Science graduate and Full-Stack Software Developer based in Lebanon.
 
-I specialize in building modern web applications with a strong focus on backend development, database design, and creating clean, scalable solutions.
+I specialize in developing modern web applications with a strong focus on backend engineering, database design, API development, and building clean, maintainable software solutions.
 
-My main interests include:
+My areas of interest include:
 
 - Full-Stack Web Development
 - Backend Engineering
 - Database Architecture
-- AI-powered Applications
-- Software Design and Problem Solving
+- AI-Powered Applications
+- Software Design & Problem Solving
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Backend Development
+## Backend Development
 
 - ASP.NET Core
 - C#
 - Entity Framework Core
-- REST APIs
 - ASP.NET Identity
+- REST APIs
 
-### Frontend Development
+## Frontend Development
 
 - React
 - JavaScript
 - HTML5
 - CSS3
 - Bootstrap
-- Responsive Design
+- Responsive Web Design
 
-### Databases
+## Databases
 
 - PostgreSQL
 - SQL Server
 - MySQL
 
-### Tools & Technologies
+## Tools & Technologies
 
 - Git & GitHub
-- Docker 
+- Docker
+- Docker Compose
 - Supabase
 - AI APIs
 
-### Programming Languages
+## Programming Languages
 
 - C#
 - Java
@@ -67,91 +68,92 @@ My main interests include:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 💈 Barber Salon Management Platform
+## 💈 Barber Salon Management Platform
 
-A full-stack platform designed to digitize barber salon operations.
+A full-stack salon management system designed to digitize barber shop operations and improve customer and employee experiences.
 
-Features:
+### Key Features:
 
 - Customer appointment booking
+- Real-time appointment management
 - Employee scheduling
-- Product and service management
+- Service and product management
 - Order tracking
 - Role-based dashboards
 - Authentication and authorization
 
-Technologies:
+### Technologies:
 
-ASP.NET Core 8 · C# · Razor Pages · Entity Framework Core · PostgreSQL · Docker · Supabase Storage
+`ASP.NET Core 8` · `C#` · `Razor Pages` · `Entity Framework Core` · `PostgreSQL` · `Docker` · `Supabase Storage`
 
 ---
 
-### 🤖 AI CV Analyzer
+## 🤖 AI CV Analyzer
 
-An AI-powered platform that helps users analyze and improve their resumes.
+An AI-powered platform that helps users analyze and improve their resumes using artificial intelligence.
 
-Features:
+### Key Features:
 
-- CV analysis
-- Skill evaluation
+- CV analysis and evaluation
+- Skill assessment
 - Job description matching
-- Missing skill identification
+- Missing skill detection
 - Personalized learning recommendations
 
-Technologies:
+### Technologies:
 
-ASP.NET Core · C# · PostgreSQL · Entity Framework Core · AI APIs
+`ASP.NET Core` · `C#` · `PostgreSQL` · `Entity Framework Core` · `AI APIs`
 
 ---
 
-### 🍽️ Foodie - Restaurant Management System
+## 🍽️ Foodie — Restaurant Management System
 
-A restaurant management platform for handling food ordering and administration.
+A full-stack restaurant management platform for handling online food ordering and administration.
 
-Features:
+### Key Features:
 
 - User authentication
-- Menu management
+- Menu and category management
 - Shopping cart
 - Order processing
 - Admin dashboard
 
-Technologies:
+### Technologies:
 
-ASP.NET Core · Razor Pages · PostgreSQL · Entity Framework Core
+`ASP.NET Core` · `Razor Pages` · `PostgreSQL` · `Entity Framework Core`
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 **Lebanese University**  
-Faculty of Science - Computer Science
+Faculty of Science — Computer Science
 
-2023 - 2026
-
----
-
-## 🌍 Languages
-
-- Arabic — Native
-- English — Fluent
-- French — Fluent
+**2023 - 2026**
 
 ---
 
-## 📬 Contact
+# 🌍 Languages
 
-📧 Email:
+- 🇱🇧 Arabic — Native
+- 🇬🇧 English — Fluent
+- 🇫🇷 French — Fluent
+
+---
+
+# 📬 Contact
+
+📧 **Email:**  
 HassanJakmara123@gmail.com
 
-🔗 GitHub:
+🔗 **GitHub:**  
 https://github.com/HASAN123-CS
 
-🔗 LinkedIn:
+🔗 **LinkedIn:**  
 https://www.linkedin.com/in/hasan-jakmara-68b012374
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+⭐ Thanks for visiting my portfolio!
