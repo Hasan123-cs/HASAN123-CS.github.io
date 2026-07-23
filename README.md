@@ -127,7 +127,7 @@ ASP.NET Core · Razor Pages · PostgreSQL · Entity Framework Core
 ## 🎓 Education
 
 **Lebanese University**  
-Faculty of Engineering - Computer Science
+Faculty of Science - Computer Science
 
 2023 - 2026
 
