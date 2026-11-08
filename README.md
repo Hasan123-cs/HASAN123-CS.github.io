@@ -1,159 +1,168 @@
 # Hasan Jakmara — Full-Stack Software Developer 🚀
 
-Welcome to my personal portfolio website.
+Welcome to my personal portfolio website!
 
-This repository contains my developer portfolio, where I showcase my technical skills, featured projects, education background, and the technologies I use to build modern, scalable applications.
+This repository contains my developer portfolio, showcasing my technical expertise, featured software projects, education, and experience building scalable, maintainable, and real-world applications.
 
-🌐 **Live Demo:** https://hasan123-cs.github.io/
+🌐 **Live Portfolio:** https://hasan123-cs.github.io/
 
 ---
 
 ## 👨‍💻 About Me
 
-I am Hasan Jakmara, a Computer Science graduate and Full-Stack Software Developer based in Lebanon.
+I'm Hasan Jakmara, a Computer Science graduate from the Lebanese University and a Full-Stack Software Developer based in Lebanon.
 
-I specialize in developing modern web applications with a strong focus on backend engineering, database design, API development, and building clean, maintainable software solutions.
+I specialize in developing full-stack web applications with a strong focus on backend engineering, RESTful API development, database design, software architecture, and AI-powered solutions.
 
-My areas of interest include:
+My development approach emphasizes clean, maintainable code, separation of concerns, and reliable application performance.
+
+**Areas of Interest:**
 
 - Full-Stack Web Development
-- Backend Engineering
-- Database Architecture
-- AI-Powered Applications
+- Backend Engineering & RESTful APIs
+- Clean Architecture & Domain-Driven Design (DDD)
+- Database Design & Optimization
+- AI Agents & AI Integration
+- Automated Testing & Performance Engineering
 - Software Design & Problem Solving
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## Backend Development
+### Backend Development
 
-- ASP.NET Core
+- ASP.NET Core Web API & Razor Pages
 - C#
 - Entity Framework Core
-- ASP.NET Identity
-- REST APIs
+- ASP.NET Core Identity
+- RESTful API Development
+- JWT Authentication & Role-Based Authorization
 
-## Frontend Development
+### Frontend Development
 
 - React
 - JavaScript
-- HTML5
-- CSS3
+- HTML5 & CSS3
 - Bootstrap
 - Responsive Web Design
 
-## Databases
+### Databases
 
 - PostgreSQL
 - SQL Server
 - MySQL
 
-## Tools & Technologies
+### Software Architecture & Engineering
 
-- Git & GitHub
-- Docker
-- Docker Compose
-- Supabase
-- AI APIs
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Dependency Injection
+- Design Patterns
 
-## Programming Languages
+### AI & Data Processing
 
-- C#
-- Java
-- JavaScript
 - Python
-- PHP
-- C
+- AI Agents & AI Integration
+- Google Gemini API
+- AI Function Calling
+- Deterministic Data Processing
+- Pandas & NumPy
+- PDF & Excel Processing
+
+### Testing & DevOps
+
+- Playwright — End-to-End Testing
+- Apache JMeter — Performance Testing
+- Docker & Docker Compose
+- Git & GitHub
+- Railway & Render
+- Supabase Storage
+
+### Programming Languages
+
+`C#` · `Java` · `JavaScript` · `Python` · `PHP` · `C`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 💈 Barber Salon Management Platform
+### 01. 🤖 AI CV Analyzer
 
-A full-stack salon management system designed to digitize barber shop operations and improve customer and employee experiences.
+An AI-powered resume analysis and career development platform designed to help job seekers evaluate their CVs, identify skill gaps, and improve their career readiness.
 
-### Key Features:
+**Key Features:**
 
-- Customer appointment booking
-- Real-time appointment management
-- Employee scheduling
-- Service and product management
-- Order tracking
-- Role-based dashboards
-- Authentication and authorization
+- AI-powered CV analysis and evaluation
+- Resume scoring and skill assessment
+- Job description matching and compatibility analysis
+- Skill-gap identification
+- Personalized career and learning recommendations
+- Project recommendations based on missing skills
+- Secure user authentication and authorization
+- Integration with AI models through OpenRouter
 
-### Technologies:
+**Technologies:**
 
-`ASP.NET Core 8` · `C#` · `Razor Pages` · `Entity Framework Core` · `PostgreSQL` · `Docker` · `Supabase Storage`
-
----
-
-## 🤖 AI CV Analyzer
-
-An AI-powered platform that helps users analyze and improve their resumes using artificial intelligence.
-
-### Key Features:
-
-- CV analysis and evaluation
-- Skill assessment
-- Job description matching
-- Missing skill detection
-- Personalized learning recommendations
-
-### Technologies:
-
-`ASP.NET Core` · `C#` · `PostgreSQL` · `Entity Framework Core` · `AI APIs`
+`ASP.NET Core` · `C#` · `Entity Framework Core` · `PostgreSQL` · `ASP.NET Core Identity` · `OpenRouter` · `DeepSeek` · `Docker`
 
 ---
 
-## 🍽️ Foodie — Restaurant Management System
+### 02. 🦷 Dental Clinic Management System
 
-A full-stack restaurant management platform for handling online food ordering and administration.
+A full-stack dental clinic management platform developed as a freelance project for a real client, designed exclusively for doctors and assistants to streamline daily clinical workflows and administrative operations.
 
-### Key Features:
+**Key Features:**
 
-- User authentication
-- Menu and category management
-- Shopping cart
-- Order processing
-- Admin dashboard
+- Patient information and medical records management
+- Appointment scheduling and management
+- Interactive dental chart with tooth conditions and surface-level treatments
+- Dental bridge and treatment tracking
+- Treatment history and payment management
+- Secure JWT authentication and role-based authorization
+- Role-specific access for doctors and assistants
+- WhatsApp appointment reminders
+- Client-side request caching to reduce redundant API calls
+- Automated end-to-end testing
+- Cloud deployment and application configuration
 
-### Technologies:
+**Technologies:**
 
-`ASP.NET Core` · `Razor Pages` · `PostgreSQL` · `Entity Framework Core`
+`ASP.NET Core Web API` · `C#` · `React` · `Entity Framework Core` · `PostgreSQL` · `ASP.NET Core Identity` · `JWT` · `REST APIs` · `Playwright` · `Docker` · `Railway` · `Cloudflare`
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 **Lebanese University**  
-Faculty of Science — Computer Science
+Faculty of Sciences — Bachelor's Degree in Computer Science
 
-**2023 - 2026**
+**September 2023 – July 2026**
 
 ---
 
-# 🌍 Languages
+## 🌍 Languages
 
 - 🇱🇧 Arabic — Native
-- 🇬🇧 English — Fluent
-- 🇫🇷 French — Fluent
+- 🇬🇧 English — Advanced
+- 🇫🇷 French — Advanced
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
-📧 **Email:**  
-HassanJakmara123@gmail.com
+I'm open to opportunities in **Full-Stack Development, Backend Engineering, and Software Engineering**.
 
-🔗 **GitHub:**  
-https://github.com/HASAN123-CS
+**Email:** HassanJakmara123@gmail.com
 
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/hasan-jakmara-68b012374
+**GitHub:** https://github.com/HASAN123-CS
+
+**LinkedIn:** https://www.linkedin.com/in/hasan-jakmara-68b012374
+
+**Portfolio:** https://hasan123-cs.github.io/
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+⭐ **Thank you for visiting my portfolio!**
